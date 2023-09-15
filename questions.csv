@@ -1,0 +1,10 @@
+question,option,input_type,input_id,dependence,dependence_value,required
+What tools do you currently use to work with your data?,"R, Excel, others",text,usual_tools,,,TRUE
+What challenges do you encounter in your data workflows?,"Collaboration, accessing data, repeating operations many times, others",text,usual_challenges,,,TRUE
+What is one programming challenge that would make the biggest difference in your work if it were solved?,Make a timeseries line up; get data from an online database; format a plot nicely; run a model many times,text,big_fish,,,TRUE
+Do you use R regularly now?,Yes,mc,use_r,,,TRUE
+Do you use R regularly now?,Rarely,mc,use_r,,,TRUE
+Do you use R regularly now?,No,mc,use_r,,,TRUE
+Are you familiar with the R tidyverse?,Yes,mc,know_tidy,,,TRUE
+Are you familiar with the R tidyverse?,Heard of it,mc,know_tidy,,,TRUE
+Are you familiar with the R tidyverse?,What?,mc,know_tidy,,,TRUE
